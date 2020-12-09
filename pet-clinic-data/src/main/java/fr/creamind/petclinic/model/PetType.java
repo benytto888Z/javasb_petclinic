@@ -1,4 +1,4 @@
-package fr.creamind.petclinic.javasb_petclinic.model;
+package fr.creamind.petclinic.model;
 
 public class PetType {
     private String name;

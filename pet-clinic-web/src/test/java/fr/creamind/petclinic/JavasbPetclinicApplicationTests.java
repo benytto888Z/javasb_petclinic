@@ -1,4 +1,4 @@
-package fr.creamind.petclinic.javasb_petclinic;
+package fr.creamind.petclinic;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
